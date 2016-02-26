@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-c2ca32aa7a0bfa8dfd584e61d16f5fb32d5a8da4.jar" />
+    </item>
+    <item
+        jar="C:\Android_Studio_SDK_Location\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-152d1d9ac2a94ff4b2090556d527828cc241c258.jar" />
+    </item>
+    <item
+        jar="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-c05493d897c41041e9d0329a364e1f0f0399ab93.jar" />
+    </item>
+    <item
+        jar="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3713f30726299231eddfb206043ebb72a2519b6f">
+        <dex dex="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-238772aee2673eaa338c20fe01a16d94a7891b73.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-401f1ec820c2eb5226ff2ede93d70b5bb2fab56a.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-af52d1dfae5e475acce9df2c1341c6a2d5be9572.jar" />
+    </item>
+    <item
+        jar="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-7ea031dcb0ae2314f53a6003ddce718ad4f5f037.jar" />
+    </item>
+    <item
+        jar="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Android Relative Software\Studio\Exp\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-03df759302a4aa83aeff58f77eca8a8c38fd26d0.jar" />
+    </item>
+    <item
+        jar="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\Android_Studio_App_Location\DisplayingBitmaps\Application\build\intermediates\pre-dexed\debug\classes-cc46e978d3badc723d124ed4d1490c532b72958a.jar" />
+    </item>
+
+</items>
